@@ -512,13 +512,13 @@ NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
   NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
     var gitalk = new Gitalk({
       clientID    : '06e6d7da85caf1949705',
-      clientSecret: 'd9cbc65be22db81d0ab85d3a284e7879d72b3304',
+      clientSecret: '76a3ef155901e33d42539a30a5e437b043e130bb',
       repo        : 'blog_comments',
       owner       : 'wuwuzhazha',
       admin       : ['wuwuzhazha'],
       id          : 'ab1a7b4e4745436627c4f9c21d273fce',
         language: 'zh-CN',
-      distractionFreeMode: flase
+      distractionFreeMode: true
     });
     gitalk.render('gitalk-container');
   }, window.Gitalk);
