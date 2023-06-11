@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>OneBit</title>
+  <icon>http://onebit.love/icon.png</icon>
+  
+  <link href="http://onebit.love/atom.xml" rel="self"/>
+  
+  <link href="http://onebit.love/"/>
+  <updated>2023-06-10T14:09:18.694Z</updated>
+  <id>http://onebit.love/</id>
+  
+  <author>
+    <name>无产阶级必胜！</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无产阶级必胜</title>
+    <link href="http://onebit.love/2023/06/10/%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%BF%85%E8%83%9C/"/>
+    <id>http://onebit.love/2023/06/10/%E6%97%A0%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%BF%85%E8%83%9C/</id>
+    <published>2023-06-10T11:53:23.915Z</published>
+    <updated>2023-06-10T14:09:18.694Z</updated>
+    
+    
+    <summary type="html">&lt;div align=&#39;center&#39; &gt;&lt;font size=&#39;70&#39;&gt;无产阶级必胜！!!!!&lt;/font&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>无产阶级必胜</title>
+    <link href="http://onebit.love/2023/06/10/hello-world/"/>
+    <id>http://onebit.love/2023/06/10/hello-world/</id>
+    <published>2023-06-10T07:10:43.112Z</published>
+    <updated>2023-06-10T11:23:41.827Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div align=&#39;center&#39; &gt;&lt;font</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
