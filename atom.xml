@@ -24,7 +24,9 @@
     <updated>2023-06-10T14:09:18.694Z</updated>
     
     
-    <summary type="html">&lt;div align=&#39;center&#39; &gt;&lt;font size=&#39;70&#39;&gt;无产阶级必胜！!!!!&lt;/font&gt;&lt;/div&gt;</summary>
+    <summary type="html">&lt;div data-align=&quot;center&quot;&gt;
+&lt;font size=&#39;70&#39;&gt;无产阶级必胜！!!!!&lt;/font&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -43,7 +45,8 @@
       
         
         
-    <summary type="html">&lt;div align=&#39;center&#39; &gt;&lt;font</summary>
+    <summary type="html">&lt;div data-align=&quot;center&quot;&gt;
+&lt;font</summary>
         
       
     
